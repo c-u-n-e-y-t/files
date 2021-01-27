@@ -1,0 +1,52 @@
+
+
+.header{
+    font-family:Arial;
+    text-transform: uppercase;
+    border: black solid;;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 300px;
+    margin-left:300px; 
+}
+
+.opmaak-titel{
+    font-family:Arial;
+    padding-top:15px;
+}
+
+.opmaak-titel h3{
+    padding-bottom: 15px;
+}
+
+.opmaak-nav-links {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.opmaak-nav-links li{
+    padding-right: 9px;
+    display:inline;
+    background-color:rgb(226, 194, 194);
+    float: left;
+    padding: 10px;
+ 
+}
+
+.opmaak-nav-links a{
+    text-decoration: none;
+    text-align: center;
+    color:brown;
+    padding:5px;
+}
+
+.opmaak-nav-links a:hover{
+    background-color: burlywood;
+    padding:inherit;
+    
+}
+
+.opmaak-nav-links a:visited{
+    color:black solid;
+}
