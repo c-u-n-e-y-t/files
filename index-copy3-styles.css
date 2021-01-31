@@ -1,0 +1,66 @@
+
+
+.header-style{
+    text-align: center;   
+}
+
+
+
+.body-style{
+    font-family:fantasy;
+    color:white;
+    font-weight: bold;
+    font-size:x-large;
+    list-style:none;
+}
+
+.ul-style{
+    list-style: none;
+}
+
+.ul-style-nav{
+    text-align: right;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    line-height: 2em;
+}
+
+a:hover{
+    font-size:30px;
+    background-color: black;
+}
+
+.footer-style{
+    padding-top:75px;
+    }
+
+.form-style{
+    background-color: green;
+    width:fit-content;
+}
+    
+@media only screen and (min-width:320px){
+    *{
+        font-size:15px;
+        }
+}
+@media only screen and (min-width:768px){
+    *{
+        font-size:20px;
+    }
+}
+@media only screen and (min-width:1024px){
+    *{
+        font-size:25px;
+        background-color:unset;
+        color:turquoise;
+        margin:5px;
+    }
+}
+
+   
+  
