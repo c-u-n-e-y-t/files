@@ -1,0 +1,9 @@
+.blogpost-items{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.blogpost{
+    display: flex;
+    justify-content:space-around;
+}
